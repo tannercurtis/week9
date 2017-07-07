@@ -3,9 +3,11 @@
 Play around with Plugins!
 
 Non-touch devices:
+
 ![desktop](desktop.gif)
 
 Touch devices:
+
 ![tablet](tablet.gif)
 
 ### Step 1 - Fork this repository.
